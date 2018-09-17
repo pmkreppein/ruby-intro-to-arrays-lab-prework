@@ -19,4 +19,6 @@ def last_element(input_array)
 end
 
 def first_element_with_array_methods(input_array)
-  return input_array.f
+  return input_array.first
+end
+
