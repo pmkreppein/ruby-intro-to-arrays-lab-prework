@@ -6,6 +6,10 @@ def array_with_two_elements
   return ["Pete", "Wes"]
 end
 
-def first_element(array)
-  return array[0]
+def first_element(input_array)
+  return input_array[0]
+end
+
+def third_element(input_array)
+  return input_array[2]
 end
